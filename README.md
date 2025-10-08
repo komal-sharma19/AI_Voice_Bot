@@ -8,6 +8,9 @@ An intelligent and empathetic AI voice bot that analyzes sentiment in your messa
 ![VADER](https://img.shields.io/badge/VADER-Sentiment-orange.svg)
 ![gTTS](https://img.shields.io/badge/gTTS-Text--to--Speech-yellow.svg)
 
+## Demo 
+https://aivoicebot1908.streamlit.app/
+
 ## 📋 Overview
 
 Talrn Voice Bot is an interactive web application that combines sentiment analysis with AI-powered response generation. Simply type a message, and the bot will:
