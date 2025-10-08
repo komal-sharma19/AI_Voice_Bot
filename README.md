@@ -140,6 +140,15 @@ The bot is programmed with safety guidelines:
 - Maintains a non-judgmental tone
 - Respects user privacy
 
+## 🚀 Future Improvements
+
+Here are some planned enhancements for future versions:
+
+- **🎙️ Voice Input**: Add speech-to-text functionality for hands-free interaction
+- **🌍 Multi-language Support**: Expand beyond English to support multiple languages
+- **💬 Conversation History**: Implement chat memory to maintain context across messages
+- **🎨 Custom Voice Options**: Allow users to choose different voice styles and accents
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -150,14 +159,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
 ## 👩‍💻 Author
 
 **Komal Sharma**
 
 - **LinkedIn**: [k-sharma19](https://www.linkedin.com/in/k-sharma19/)
-- **GitHub**: [komal-sharma19](https://github.com/komal-sharma19)
-- **LeetCode**: [Komal Sharma](https://leetcode.com/u/KomalSharma19/)
 - **Email**: 1908.komalsharma@gmail.com
 - **Location**: Kanpur, Uttar Pradesh
 
